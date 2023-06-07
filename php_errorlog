@@ -1,0 +1,128 @@
+[18-Oct-2018 00:07:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[19-Oct-2018 00:07:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[20-Oct-2018 00:07:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[21-Oct-2018 00:07:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[22-Oct-2018 00:08:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[23-Oct-2018 00:08:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[24-Oct-2018 00:09:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[25-Oct-2018 00:10:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[26-Oct-2018 00:45:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[27-Oct-2018 00:41:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[27-Oct-2018 11:05:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[28-Oct-2018 00:41:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[29-Oct-2018 00:43:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[30-Oct-2018 00:44:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[31-Oct-2018 00:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[01-Nov-2018 00:43:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[01-Nov-2018 14:30:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[02-Nov-2018 00:42:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[03-Nov-2018 00:44:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[04-Nov-2018 00:45:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[05-Nov-2018 00:15:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[05-Nov-2018 00:41:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[06-Nov-2018 00:42:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[06-Nov-2018 03:09:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[07-Nov-2018 00:40:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[07-Nov-2018 11:32:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[08-Nov-2018 00:35:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[09-Nov-2018 00:33:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[10-Nov-2018 00:31:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[11-Nov-2018 00:32:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[12-Nov-2018 00:30:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/wp-content/themes/assivo/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/wp-content/themes/assivo/index.php on line 16
+[12-Jun-2020 11:15:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/assivo43/public_html/dev/wp-content/themes/assivo/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/assivo43/public_html/dev/wp-content/themes/assivo/index.php on line 19
